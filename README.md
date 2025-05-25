@@ -8,10 +8,8 @@ A modern Android weather application built with Kotlin, Retrofit, and Jetpack Co
  ✨ Features
 - Real-time weather updates
 - Current weather details (temperature, humidity, wind speed)
-- 5-day weather forecast
 - Search by city name
 - Automatic location detection
-- Dark/Light theme support
 - Responsive UI with Jetpack Compose
 
  🛠 Tech Stack
@@ -21,5 +19,4 @@ A modern Android weather application built with Kotlin, Retrofit, and Jetpack Co
 - MVVM Architecture - Pattern separation
 - Hilt/Dagger - Dependency injection
 - OpenWeatherMap API - Weather data source
-- Room Database - Local caching (optional)
 - Flow/Coroutines - Asynchronous operations
