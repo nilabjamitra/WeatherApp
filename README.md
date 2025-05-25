@@ -1,4 +1,4 @@
- 🌤️ WeatherNow - Android Weather App
+ 🌤️ Weather Wise - Android Weather App
 
 A modern Android weather application built with Kotlin, Retrofit, and Jetpack Compose, showcasing real-time weather data from a REST API.
 
